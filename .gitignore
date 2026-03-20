@@ -1,0 +1,17 @@
+# skill-cooker workspace files (generated during execution, not part of the repo)
+skill-cooker-workspace/
+tmp_claude/
+tmp_standard/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
